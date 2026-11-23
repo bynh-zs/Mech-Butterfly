@@ -1,0 +1,35 @@
+# 作者原始资料（属他人作品，未收录）
+Mech-Butterfly-main/
+
+# 固件与二进制
+*.bin
+*.apk
+
+# 3D / CAD 二进制
+*.STL
+*.stl
+*.SLDPRT
+*.step
+*.STEP
+*.3mf
+
+# Office 临时锁文件
+~$*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 构建产物与临时目录
+build/
+*.pdf
+*_work/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
